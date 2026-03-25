@@ -63,6 +63,13 @@ function Hero() {
   return (
     <section ref={heroRef} className="min-h-screen flex items-center justify-center px-6 pt-20">
       <div className="max-w-4xl mx-auto text-center">
+        <div className="hero-photo mb-8 mx-auto">
+          <img 
+            src="/tyler-headshot.jpg" 
+            alt="Tyler Delano" 
+            className="w-40 h-40 md:w-48 md:h-48 rounded-full object-cover border-4 border-accent/30 shadow-lg shadow-accent/20 mx-auto"
+          />
+        </div>
         <p className="hero-name text-accent font-mono text-sm tracking-widest mb-4">TYLER DELANO</p>
         <h1 className="hero-headline text-4xl md:text-6xl lg:text-7xl font-black mb-6 leading-tight">
           I help local businesses<br />
