@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Springtown%2C%20TX-blue?style=flat-square&logo=location&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Texas-blue?style=flat-square&logo=location&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-AI%20Agents%20&%20SaaS-orange?style=flat-square&logo=robot&logoColor=white" />
   <img src="https://img.shields.io/badge/Host-Mac%20mini%20M4%20Pro-9cf?style=flat-square&logo=apple&logoColor=white" />
 </p>
@@ -63,7 +63,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tylerdotai&theme=radical&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400" alt="Tyler GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=tylerdotai&theme=radical&hide_border=false&cache_seconds=86400" alt="Tyler GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylerdotai&theme=radical&hide_border=false&cache_seconds=86400" alt="Top Languages" width="49%" />
 </p>
 
 ---
