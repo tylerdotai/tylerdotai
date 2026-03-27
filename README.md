@@ -1,42 +1,15 @@
-# tylerdotai.com
+# Tyler Delano
 
-Tyler Delano's personal brand site — IT professional, AI practitioner, homesteader.
+IT Support by day. Builder by night.
 
-## Stack
+Making AI agents actually useful at [Flume SaaS Factory](https://flumeusa.com) — building tools for trade contractors (plumbers, HVAC, roofers).
 
-- React + Vite + Tailwind CSS
-- GSAP for scroll animations
-- Lucide React icons
-- Deployed on Vercel
+**Currently building:** agent-hosting, client-portal, clawplex
 
-## Sections
+**Stack:** OpenClaw, React, Node, Cloudflare, Railway
 
-- **Hero** — CTA for free strategy call (Calendly)
-- **About** — Background, homestead, work
-- **Services** — AI Consulting, Workshops, IT Support, ServicePro AI Agent
-- **Clawplex** — DFW OpenClaw meetup group
-- **Connect** — Social links (Twitter, GitHub, LinkedIn, Email, Telegram)
+**Find me:**
+- [Twitter](https://twitter.com/tylerdotai) — @tylerdotai
+- [Flume USA](https://flumeusa.com) — the main thing
 
-## Design
-
-- Dark theme: bg `#0a0a0f`, surface `#141419`, accent `#ff6b00`
-- Mobile responsive
-- GSAP scroll animations
-
-## Dev
-
-```bash
-npm install
-npm run dev    # dev server
-npm run build  # production build
-```
-
-## Deploy
-
-```bash
-npx vercel --prod
-```
-
-## DNS
-
-See [DNS_SETUP.md](./DNS_SETUP.md) for Namecheap configuration.
+> Trying to escape the cloud, one config at a time.
