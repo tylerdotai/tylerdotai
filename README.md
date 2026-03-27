@@ -1,9 +1,5 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi, I'm Tyler
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tylerdotai/tylerdotai/main/tyler-headshot.jpg" width="200" alt="Tyler Delano" style="border-radius: 50%;" />
-</p>
-
 ### <img src="https://media.giphy.com/media/LnQjpWaONlNnxkMVVx/giphy.gif" width="30px" />  Building the Flume SaaS Factory
 
 ---
