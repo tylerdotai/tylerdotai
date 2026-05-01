@@ -49,7 +49,7 @@ A project I started after my dad was diagnosed with Parkinson's. It is still a w
 ### Fort Worth Police Hockey
 [fwpdhockey.com](https://fwpdhockey.com)
 
-A fully live public-facing site that serves as a clean example of my product work: structured information, clear presentation, and a finished deployment that is meant to be used by real people, not just shown in a portfolio screenshot.
+The live site for the Fort Worth Police Hockey team, a nonprofit organization that does benefit games and raises funds through community events. It is a straightforward example of my work on a real public-facing site built to support an active organization.
 
 ### ZK Voting System
 [github.com/tylerdotai/zk-voting-system](https://github.com/tylerdotai/zk-voting-system)
