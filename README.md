@@ -39,22 +39,22 @@ A few rules I try to build by:
 ### ClawPlex
 [clawplex.dev](https://clawplex.dev)
 
-An AI builder community for Dallas-Fort Worth that I founded.
+A Dallas-Fort Worth AI builder community I founded to bring local founders, operators, and agent builders into the same room. The point is not vague "innovation" branding. It is practical collaboration: real builders, real projects, real momentum in DFW.
 
 ### AIAgainstParkinson
 [aiagainstparkinson.com](https://aiagainstparkinson.com)
 
-A project I built after my dad was diagnosed with Parkinson's. It is still a work in progress and actively seeking contributors and support.
+A project I started after my dad was diagnosed with Parkinson's. It is still a work in progress, but the goal is straightforward: make research, reporting, and AI-assisted workflows more useful for patients, families, and supporters. It is early, and I am actively looking for contributors and support.
 
 ### Fort Worth Police Hockey
 [fwpdhockey.com](https://fwpdhockey.com)
 
-A fully live site I built for my dad's Fort Worth police hockey team.
+A fully live public-facing site that serves as a clean example of my product work: structured information, clear presentation, and a finished deployment that is meant to be used by real people, not just shown in a portfolio screenshot.
 
 ### ZK Voting System
 [github.com/tylerdotai/zk-voting-system](https://github.com/tylerdotai/zk-voting-system)
 
-A parliamentary on-chain voting prototype built for the Fort Worth DAO hackathon, with a live Phase 1 governance flow and a planned privacy layer for Phase 2.
+A parliamentary on-chain voting prototype built for the Fort Worth DAO hackathon. The live demo focuses on a real Phase 1 governance flow, while the privacy layer remains a separate Phase 2 effort rather than something hand-waved into the demo.
 
 ## How I Like to Work
 
@@ -68,15 +68,16 @@ I care about:
 ## GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tylerdotai&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true&hide_border=true" alt="Tyler GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tylerdotai&theme=github_dark" alt="Tyler GitHub profile summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tylerdotai&hide_border=true" alt="Tyler GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tylerdotai&hide_border=true&theme=dark" alt="Tyler GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylerdotai&layout=compact&hide_border=true" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tylerdotai&theme=github_dark" alt="Top languages by repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tylerdotai&theme=github_dark" alt="GitHub stats summary" />
 </p>
 
 ## Where to Reach Me
