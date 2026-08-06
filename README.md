@@ -1,88 +1,92 @@
 <h1 align="center">Tyler Delano</h1>
 
 <p align="center">
-  Independent builder shipping AI-native products and operating systems.
+  <strong>Build agents. Ship products. Shoot film.</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/tylerdotai">GitHub</a>
+  I’m a builder in DFW turning AI agents, research, and creative work into useful things people can actually use.
+</p>
+
+<p align="center">
+  <a href="https://tyler.dot.ai">TylerDotAI</a>
+  ·
+  <a href="https://agentbuildersclub.dev">Agent Builders Club</a>
+  ·
+  <a href="https://aiagainstparkinson.com">AI Against Parkinson’s</a>
   ·
   <a href="https://x.com/tylerdotai">X</a>
-  ·
-  <a href="https://clawplex.dev">ClawPlex</a>
-  ·
-  <a href="mailto:tyler.delano@icloud.com">Email</a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Independent%20Builder-111111?style=for-the-badge" alt="Independent Builder" />
-  <img src="https://img.shields.io/badge/DFW-Texas-1f4b99?style=for-the-badge" alt="DFW Texas" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Agents%20%26%20Products-2d6cdf?style=for-the-badge" alt="Focus AI Agents and Products" />
-  <img src="https://img.shields.io/badge/Stack-Next.js%20%7C%20TypeScript%20%7C%20Supabase-0f172a?style=for-the-badge" alt="Stack" />
-</p>
+## What I’m building now
 
-## Builder Operating System
+### Agent Builders Club
 
-I build agent-driven software, community infrastructure, and practical internet products.
+[agentbuildersclub.dev](https://agentbuildersclub.dev)
 
-My bias is toward real proof over polished theory: ship the thing, tighten the system, and turn repeat work into leverage.
+A DFW community for people building with AI. We run meetups, build-a-thons, demos, and practical conversations for everyone from curious beginners to people shipping agents in production.
 
-A few rules I try to build by:
+**Next up:** [Agent Builders Club Build-a-thon · August 19 · Fort Worth](https://luma.com/o0jfobup)
 
-- Ship working systems, not idea theater.
-- Turn the second ask into automation.
-- Prefer readable products over clever ones.
-- Use AI agents as execution partners, not gimmicks.
+### Clipforge
 
-## Selected Work
+[github.com/tylerdotai/clipforge](https://github.com/tylerdotai/clipforge)
 
-### ClawPlex
-[clawplex.dev](https://clawplex.dev)
+An AI-powered video repurposing tool for turning long-form footage into structured short-form clips, hooks, timelines, captions, and exportable editing assets.
 
-A Dallas-Fort Worth AI builder community I founded to bring local founders, operators, and agent builders into the same room. The point is not vague "innovation" branding. It is practical collaboration: real builders, real projects, real momentum in DFW.
+### AI Against Parkinson’s
 
-### AIAgainstParkinson
-[aiagainstparkinson.com](https://aiagainstparkinson.com)
+[aiagainstparkinson.com](https://aiagainstparkinson.com) · [source](https://github.com/tylerdotai/parkinson-research)
 
-A project I started after my dad was diagnosed with Parkinson's. It is still a work in progress, but the goal is straightforward: make research, reporting, and AI-assisted workflows more useful for patients, families, and supporters. It is early, and I am actively looking for contributors and support.
+A research platform created after my dad was diagnosed with Parkinson’s. It turns current research into clearer reports for patients, families, and supporters—with evidence quality, limitations, citations, and English/Spanish access treated as product requirements.
 
-### Fort Worth Police Hockey
-[fwpdhockey.com](https://fwpdhockey.com)
+### Agent systems
 
-The live site for the Fort Worth Police Hockey team, a nonprofit organization that does benefit games and raises funds through community events. It is a straightforward example of my work on a real public-facing site built to support an active organization.
+I build the infrastructure behind autonomous work: memory, skills, orchestration, research pipelines, local tools, and agent-to-agent workflows.
 
-### ZK Voting System
-[github.com/tylerdotai/zk-voting-system](https://github.com/tylerdotai/zk-voting-system)
+- [Agent Loop System](https://github.com/tylerdotai/agent-loop-system) — multi-agent task decomposition and execution
+- [Hermes Memory System](https://github.com/tylerdotai/hermes-memory-system) — layered memory for Hermes Agent
+- [Agentic Engineering Playbook](https://github.com/tylerdotai/agentic-engineering-playbook) — operating patterns for one-person AI teams
+- [Industry Recon](https://github.com/tylerdotai/industry-recon) — evidence-backed opportunity research
 
-A parliamentary on-chain voting prototype built for the Fort Worth DAO hackathon. The live demo focuses on a real Phase 1 governance flow, while the privacy layer remains a separate Phase 2 effort rather than something hand-waved into the demo.
+## How I work
 
-## How I Like to Work
+- Start with a real problem, not a fashionable wrapper.
+- Ship the smallest complete workflow, not a fake demo.
+- Keep evidence, limitations, and failure modes visible.
+- Turn repeated work into tools, skills, and systems.
+- Make the interface understandable to the person who has to use it.
+- Use AI for leverage without outsourcing judgment.
 
-I care about:
+## The through-line
 
-- fast iteration with real outputs
-- clear product positioning
-- operational discipline once something starts working
-- local and agentic workflows where they actually help
+I’m interested in what happens when one person can combine:
 
-## GitHub Snapshot
+- the reach of software
+- the judgment of a researcher
+- the speed of an agent team
+- the taste of a creative director
+- and the discipline to keep shipping
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tylerdotai&theme=github_dark" alt="Tyler GitHub profile summary" />
-</p>
+That’s the work: **BUILD / SHIP / LEARN.**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tylerdotai&hide_border=true&theme=dark" alt="Tyler GitHub streak" />
-</p>
+## Selected open-source work
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tylerdotai&theme=github_dark" alt="Top languages by repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tylerdotai&theme=github_dark" alt="GitHub stats summary" />
-</p>
+- [Clipforge](https://github.com/tylerdotai/clipforge) — AI video clip extraction and repurposing
+- [Agent Loop System](https://github.com/tylerdotai/agent-loop-system) — autonomous task orchestration
+- [Hermes Memory System](https://github.com/tylerdotai/hermes-memory-system) — persistent agent memory
+- [Clawplay](https://github.com/tylerdotai/clawplay) — sports data and report generation without API keys
+- [DataSelf](https://github.com/tylerdotai/dataself) — personal data rights and corporate-data analysis
+- [Creator Field Assistant](https://github.com/tylerdotai/creator-field-assistant) — offline-first production planning
+- [Flyer Toolkit](https://github.com/tylerdotai/flyer-toolkit) — agent toolkit for visual event assets
 
-## Where to Reach Me
+## Beyond the terminal
+
+I also shoot and edit film. The same principle applies: pay attention, make the thing, and let the work get better in public.
+
+## Find me
 
 - GitHub: [@tylerdotai](https://github.com/tylerdotai)
 - X: [@tylerdotai](https://x.com/tylerdotai)
 - Email: [tyler.delano@icloud.com](mailto:tyler.delano@icloud.com)
-- Community: [ClawPlex](https://clawplex.dev)
+- DFW community: [Agent Builders Club](https://agentbuildersclub.dev)
