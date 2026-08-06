@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://tyler.dot.ai">TylerDotAI</a>
+  <a href="https://tylerdotai.com">TylerDotAI</a>
   ·
   <a href="https://agentbuildersclub.dev">Agent Builders Club</a>
   ·
