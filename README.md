@@ -1,22 +1,10 @@
-<h1 align="center">Tyler Delano</h1>
+# Tyler Delano
 
-<p align="center">
-  <strong>Build agents. Ship products. Shoot film.</strong>
-</p>
+**Build agents. Ship products.**
 
-<p align="center">
-  I’m a builder in DFW turning AI agents, research, and creative work into useful things people can actually use.
-</p>
+I’m a builder in DFW turning AI agents, research, and creative work into useful things people can actually use.
 
-<p align="center">
-  <a href="https://tylerdotai.com">TylerDotAI</a>
-  ·
-  <a href="https://agentbuildersclub.dev">Agent Builders Club</a>
-  ·
-  <a href="https://aiagainstparkinson.com">AI Against Parkinson’s</a>
-  ·
-  <a href="https://x.com/tylerdotai">X</a>
-</p>
+[TylerDotAI](https://tylerdotai.com) · [Agent Builders Club](https://agentbuildersclub.dev) · [AI Against Parkinson’s](https://aiagainstparkinson.com) · [X](https://x.com/tylerdotai)
 
 ## What I’m building now
 
@@ -24,30 +12,31 @@
 
 [agentbuildersclub.dev](https://agentbuildersclub.dev)
 
-A DFW community for people building with AI. We run meetups, build-a-thons, demos, and practical conversations for everyone from curious beginners to people shipping agents in production.
+**Born in DFW. Built for the world.**
 
-**Next up:** [Agent Builders Club Build-a-thon · August 19 · Fort Worth](https://luma.com/o0jfobup)
+A community for people building with AI, with monthly meetups in Dallas-Fort Worth and an online community open to builders worldwide. We run meetups, build-a-thons, demos, and practical conversations for everyone from curious beginners to people shipping agents in production.
 
-### Clipforge
+**Upcoming events:** [Agent Builders Club calendar](https://luma.com/agentbuildersclub)
 
-[github.com/tylerdotai/clipforge](https://github.com/tylerdotai/clipforge)
+### NUAAI
 
-An AI-powered video repurposing tool for turning long-form footage into structured short-form clips, hooks, timelines, captions, and exportable editing assets.
+[github.com/tylerdotai/nuaai](https://github.com/tylerdotai/nuaai)
+
+A local-first AI agent harness I’m developing, with persistent memory, tools, schedules, and terminal and web interfaces.
 
 ### AI Against Parkinson’s
 
-[aiagainstparkinson.com](https://aiagainstparkinson.com) · [source](https://github.com/tylerdotai/parkinson-research)
+[aiagainstparkinson.com](https://aiagainstparkinson.com)
 
-A research platform created after my dad was diagnosed with Parkinson’s. It turns current research into clearer reports for patients, families, and supporters—with evidence quality, limitations, citations, and English/Spanish access treated as product requirements.
+A research platform created after my dad was diagnosed with Parkinson’s. It turns current research into clearer reports for patients, families, and supporters, with evidence quality, limitations, citations, and English/Spanish access treated as product requirements.
 
 ### Agent systems
 
 I build the infrastructure behind autonomous work: memory, skills, orchestration, research pipelines, local tools, and agent-to-agent workflows.
 
-- [Agent Loop System](https://github.com/tylerdotai/agent-loop-system) — multi-agent task decomposition and execution
-- [Hermes Memory System](https://github.com/tylerdotai/hermes-memory-system) — layered memory for Hermes Agent
-- [Agentic Engineering Playbook](https://github.com/tylerdotai/agentic-engineering-playbook) — operating patterns for one-person AI teams
-- [Industry Recon](https://github.com/tylerdotai/industry-recon) — evidence-backed opportunity research
+- [Agent Loop System](https://github.com/tylerdotai/agent-loop-system): an experiment in multi-agent task decomposition and execution
+- [Hermes Memory System](https://github.com/tylerdotai/hermes-memory-system): layered memory for Hermes Agent
+- [Agentic Engineering Playbook](https://github.com/tylerdotai/agentic-engineering-playbook): operating patterns for one-person AI teams
 
 ## How I work
 
@@ -72,21 +61,15 @@ That’s the work: **BUILD / SHIP / LEARN.**
 
 ## Selected open-source work
 
-- [Clipforge](https://github.com/tylerdotai/clipforge) — AI video clip extraction and repurposing
-- [Agent Loop System](https://github.com/tylerdotai/agent-loop-system) — autonomous task orchestration
-- [Hermes Memory System](https://github.com/tylerdotai/hermes-memory-system) — persistent agent memory
-- [Clawplay](https://github.com/tylerdotai/clawplay) — sports data and report generation without API keys
-- [DataSelf](https://github.com/tylerdotai/dataself) — personal data rights and corporate-data analysis
-- [Creator Field Assistant](https://github.com/tylerdotai/creator-field-assistant) — offline-first production planning
-- [Flyer Toolkit](https://github.com/tylerdotai/flyer-toolkit) — agent toolkit for visual event assets
-
-## Beyond the terminal
-
-I also shoot and edit film. The same principle applies: pay attention, make the thing, and let the work get better in public.
+- [NUAAI](https://github.com/tylerdotai/nuaai): local-first AI agent harness in development
+- [Agent Loop System](https://github.com/tylerdotai/agent-loop-system): autonomous task orchestration experiment
+- [Hermes Memory System](https://github.com/tylerdotai/hermes-memory-system): persistent agent memory
+- [Creator Field Assistant](https://github.com/tylerdotai/creator-field-assistant): offline-first production planning
+- [Flyer Toolkit](https://github.com/tylerdotai/flyer-toolkit): agent toolkit for visual event assets
 
 ## Find me
 
 - GitHub: [@tylerdotai](https://github.com/tylerdotai)
 - X: [@tylerdotai](https://x.com/tylerdotai)
 - Email: [tyler.delano@icloud.com](mailto:tyler.delano@icloud.com)
-- DFW community: [Agent Builders Club](https://agentbuildersclub.dev)
+- Community: [Agent Builders Club](https://agentbuildersclub.dev)
