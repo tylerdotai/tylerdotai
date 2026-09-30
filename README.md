@@ -1,10 +1,22 @@
-# Tyler Delano
+<h1 align="center">Tyler Delano</h1>
 
-**Build agents. Ship products.**
+<p align="center">
+  <strong>Build agents. Ship products.</strong>
+</p>
 
-I’m a builder in DFW turning AI agents, research, and creative work into useful things people can actually use.
+<p align="center">
+  I’m a builder in DFW turning AI agents, research, and creative work into useful things people can actually use.
+</p>
 
-[TylerDotAI](https://tylerdotai.com) · [Agent Builders Club](https://agentbuildersclub.dev) · [AI Against Parkinson’s](https://aiagainstparkinson.com) · [X](https://x.com/tylerdotai)
+<p align="center">
+  <a href="https://tylerdotai.com">TylerDotAI</a>
+  ·
+  <a href="https://agentbuildersclub.dev">Agent Builders Club</a>
+  ·
+  <a href="https://aiagainstparkinson.com">AI Against Parkinson’s</a>
+  ·
+  <a href="https://x.com/tylerdotai">X</a>
+</p>
 
 ## What I’m building now
 
