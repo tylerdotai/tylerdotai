@@ -47,8 +47,6 @@ A research platform created after my dad was diagnosed with Parkinson’s. It tu
 I build the infrastructure behind autonomous work: memory, skills, orchestration, research pipelines, local tools, and agent-to-agent workflows.
 
 - [Agent Loop System](https://github.com/tylerdotai/agent-loop-system): an experiment in multi-agent task decomposition and execution
-- [Hermes Memory System](https://github.com/tylerdotai/hermes-memory-system): layered memory for Hermes Agent
-- [Agentic Engineering Playbook](https://github.com/tylerdotai/agentic-engineering-playbook): operating patterns for one-person AI teams
 
 ## How I work
 
@@ -75,9 +73,6 @@ That’s the work: **BUILD / SHIP / LEARN.**
 
 - [NUAAI](https://github.com/tylerdotai/nuaai): local-first AI agent harness in development
 - [Agent Loop System](https://github.com/tylerdotai/agent-loop-system): autonomous task orchestration experiment
-- [Hermes Memory System](https://github.com/tylerdotai/hermes-memory-system): persistent agent memory
-- [Creator Field Assistant](https://github.com/tylerdotai/creator-field-assistant): offline-first production planning
-- [Flyer Toolkit](https://github.com/tylerdotai/flyer-toolkit): agent toolkit for visual event assets
 
 ## Find me
 
