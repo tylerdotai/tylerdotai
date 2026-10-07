@@ -50,24 +50,7 @@ I build the infrastructure behind autonomous work: memory, skills, orchestration
 
 ## How I work
 
-- Start with a real problem, not a fashionable wrapper.
-- Ship the smallest complete workflow, not a fake demo.
-- Keep evidence, limitations, and failure modes visible.
-- Turn repeated work into tools, skills, and systems.
-- Make the interface understandable to the person who has to use it.
-- Use AI for leverage without outsourcing judgment.
-
-## The through-line
-
-I’m interested in what happens when one person can combine:
-
-- the reach of software
-- the judgment of a researcher
-- the speed of an agent team
-- the taste of a creative director
-- and the discipline to keep shipping
-
-That’s the work: **BUILD / SHIP / LEARN.**
+I build with AI agents and share what I learn through Agent Builders Club. Most of my work is on agent tools, community projects, and AI Against Parkinson’s.
 
 ## Selected open-source work
 
